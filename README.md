@@ -1,4 +1,4 @@
-# nn
+# nn(nuxt2 npm)
 
 ## Build Setup
 
