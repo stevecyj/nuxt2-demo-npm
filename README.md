@@ -1,5 +1,9 @@
 # nn(nuxt2 npm)
 
+## node version
+
+18.19.0
+
 ## Build Setup
 
 ```bash
