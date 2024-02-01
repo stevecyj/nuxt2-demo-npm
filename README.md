@@ -5,6 +5,7 @@
 ```bash
 # install dependencies
 $ npm install
+$ rm -rf node_modules package-lock.json && npm i --legacy-peer-deps && npm run lint
 
 # serve with hot reload at localhost:3000
 $ npm run dev
